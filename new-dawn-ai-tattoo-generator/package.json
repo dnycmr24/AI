@@ -1,0 +1,9 @@
+{
+  "name": "new-dawn-ai-tattoo-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
